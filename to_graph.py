@@ -4,8 +4,8 @@ import functools
 
 width = 106
 height = 17
-script, scale, yOffset = argv
-scale = int(scale)
+script, yOffset = argv
+# scale = int(scale)
 yOffset = int(yOffset)
 
 
