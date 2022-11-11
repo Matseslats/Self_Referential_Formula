@@ -15,3 +15,7 @@ The offset is multiplied by 106x17 (number of bits/pixels the image consists of)
 The binary number starts with the least significant bit in the bottom right corner. When the bit to be turned on is beyond the left edge, the leftmost pixel on line 2 from the bottom represents it. This wrapping happens to every line.
 
 The program is inspired by Matt Parker and his book "Things to Make and Do in The Fourth Dimension"
+
+### Support me: 
+
+<a href="https://www.buymeacoffee.com/matseslats" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 108px !important;" ></a>
